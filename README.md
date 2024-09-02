@@ -1,0 +1,1 @@
+The Car Sales Price Prediction is a machine learning-based application designed to estimate the selling price of cars based on a variety of features. By analyzing data such as car model, year of manufacture, mileage, fuel type, engine size, and transmission type, the system accurately predicts the market value of a vehicle.
